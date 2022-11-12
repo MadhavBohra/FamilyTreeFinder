@@ -1,0 +1,28 @@
+div {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin: 5px;
+}
+
+label {
+    margin: 10px;
+}
+
+form {
+    margin: 20px;
+}
+
+.but {
+    margin-left: 40%;
+}
+
+.form-check {
+    margin-left: 30%;
+    display: flex;
+    align-items: center;
+}
+
+nav span {
+    margin-left: 40%;
+}
